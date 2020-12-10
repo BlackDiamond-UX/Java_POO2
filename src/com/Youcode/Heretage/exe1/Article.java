@@ -1,4 +1,4 @@
-package com.Youcode.Heretage.exe1;
+package src.com.Youcode.Heretage.exe1;
 
 public class Article {
     private String nom;

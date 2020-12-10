@@ -1,7 +1,7 @@
-package com.Youcode.Heretage.exe1;
+package src.com.Youcode.Heretage.exe1;
 
-import com.Youcode.Heretage.exe1.Article;
-import com.Youcode.Heretage.exe1.ArticleEnSolde;
+import src.com.Youcode.Heretage.exe1.Article;
+import src.com.Youcode.Heretage.exe1.ArticleEnSolde;
 
 public class test {
 

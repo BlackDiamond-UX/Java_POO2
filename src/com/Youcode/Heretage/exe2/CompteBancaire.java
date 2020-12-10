@@ -1,4 +1,4 @@
-package com.Youcode.Heretage.exe2;
+package src.com.Youcode.Heretage.exe2;
 
 import java.util.Scanner;
 

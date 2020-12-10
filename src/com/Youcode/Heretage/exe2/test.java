@@ -1,8 +1,8 @@
-package com.Youcode.Heretage.exe2;
+package src.com.Youcode.Heretage.exe2;
 
-import com.Youcode.Heretage.exe2.CompteBancaire;
-import com.Youcode.Heretage.exe2.CompteCourant;
-import com.Youcode.Heretage.exe2.CompteEpargne;
+import src.com.Youcode.Heretage.exe2.CompteBancaire;
+import src.com.Youcode.Heretage.exe2.CompteCourant;
+import src.com.Youcode.Heretage.exe2.CompteEpargne;
 
 public class test {
     public static void main(String[] args) {

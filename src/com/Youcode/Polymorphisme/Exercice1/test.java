@@ -1,4 +1,4 @@
-package com.Youcode.Polymorphisme.Exercice1;
+package src.com.Youcode.Polymorphisme.Exercice1;
 
 public class test {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package com.Youcode.Heretage.exe3;
+package src.com.Youcode.Heretage.exe3;
 
-import com.Youcode.Heretage.exe3.Personne;
+import src.com.Youcode.Heretage.exe3.Personne;
 
 public class Secretaire extends Personne {
 

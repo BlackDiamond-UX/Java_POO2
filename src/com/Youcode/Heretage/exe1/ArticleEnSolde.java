@@ -1,7 +1,7 @@
-package com.Youcode.Heretage.exe1;
+package src.com.Youcode.Heretage.exe1;
 
 
-import com.Youcode.Heretage.exe1.Article;
+import src.com.Youcode.Heretage.exe1.Article;
 
 public class ArticleEnSolde extends Article {
 

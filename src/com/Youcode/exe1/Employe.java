@@ -1,4 +1,4 @@
-package com.Youcode.exe1;
+package src.com.Youcode.exe1;
 
 public class Employe {
     private String nom;

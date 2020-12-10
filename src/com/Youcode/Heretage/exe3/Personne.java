@@ -1,4 +1,4 @@
-package com.Youcode.Heretage.exe3;
+package src.com.Youcode.Heretage.exe3;
 
 public class Personne {
     private String nom;
